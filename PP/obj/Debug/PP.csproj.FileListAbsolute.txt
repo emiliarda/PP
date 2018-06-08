@@ -1,0 +1,9 @@
+C:\Users\Dell\Desktop\PP\PP\bin\Debug\PP.exe.config
+C:\Users\Dell\Desktop\PP\PP\bin\Debug\PP.exe
+C:\Users\Dell\Desktop\PP\PP\bin\Debug\PP.pdb
+C:\Users\Dell\Desktop\PP\PP\obj\Debug\PP.Form1.resources
+C:\Users\Dell\Desktop\PP\PP\obj\Debug\PP.Properties.Resources.resources
+C:\Users\Dell\Desktop\PP\PP\obj\Debug\PP.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\PP\PP\obj\Debug\PP.exe
+C:\Users\Dell\Desktop\PP\PP\obj\Debug\PP.pdb
+C:\Users\Dell\Desktop\PP\PP\obj\Debug\PP.csprojResolveAssemblyReference.cache
